@@ -1,5 +1,5 @@
 Requirements:
-*It is required that you use socket programming and multi-
+It is required that you use socket programming and multi-
 threading/multi-processing techniques to make the following 
 
 which is divided into multiple parts
