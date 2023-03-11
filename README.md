@@ -1,6 +1,6 @@
 Requirements:
-It is required that you use socket programming and multi-
-threading/multi-processing techniques to make the following assignment
+*It is required that you use socket programming and multi-
+threading/multi-processing techniques to make the following 
 
 which is divided into multiple parts
 1) Multi-threaded web server:
